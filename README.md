@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 💫 About Me:
+🔭 I’m currently working on Containers and IaC<br>🌱 I’m currently learning Additive Manufacturing<br>💬 Ask me about being lazy and max results<br>⚡ Fun fact, a cat also helps with debbuging
+
