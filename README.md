@@ -21,7 +21,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rafaelcamac&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://apod.nasa.gov/apod/astropix.html' style="height: 400px;"/>
-
 ![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
